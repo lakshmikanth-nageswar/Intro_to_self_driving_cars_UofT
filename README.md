@@ -5,4 +5,4 @@ This project was implemented on predefined CARLA environment provided as part of
 - MPC for lateral control of a self driving car.
 - PID for longitudinal control of a self driving car.
 
-
+Currently doing State Estimation and Localization for Self Driving Cars, Visual Perception for Self Driving Cars
